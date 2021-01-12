@@ -184,3 +184,4 @@ Thanks to everyone who has submitted issues on and off Github, made suggestions,
 - [@vkbansal](https://github.com/vkbansal), who provided significant early feedback throughout the early releases.
 - [@rainabba](https://github.com/rainabba) and [@sullivanpt](https://github.com/sullivanpt) for getting Node v4 support integrated.
 - [@s-h-a-d-o-w](https://github.com/s-h-a-d-o-w) who resolved the longstanding space escaping issue in path names ([#355](https://github.com/coreybutler/nvm-windows/pull/355)).
+#1
